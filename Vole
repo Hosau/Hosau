@@ -1,0 +1,6 @@
+{
+"employees":[
+{"firstname":"ho1","age":30,"mail":"iam hosseyn1"},
+{"firstname":"ho2", "age":25,"mail":"iam hosseyn2"},
+{"firstname":"ho3","age":22,"mail":"iam hosseyn3"},
+{"firstname":"ho4","age":40,"mail":"iam hosseyn4"},{
